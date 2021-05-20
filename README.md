@@ -1,5 +1,7 @@
 # 10 Days of SwiftUI
 
+Projects and Challenges of 100 Days of SwiftUI
+
 * Project 01 - WeSplit
 * Project 02 - GuessTheFlag
 * Project 03 - ViewsAndModifiers
